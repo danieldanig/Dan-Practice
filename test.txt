@@ -1,0 +1,12 @@
+My First Git Practice
+
+This is a sample text file for testing Git and GitHub.
+
+I am learning:
+- Git initialization
+- Git add
+- Git commit
+- Git status
+- Git push
+
+This is my first version.
