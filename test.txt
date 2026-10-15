@@ -1,12 +1,18 @@
-My First Git Practice
+My DevOps Learning Journey
 
-This is a sample text file for testing Git and GitHub.
+I am learning and practicing the following technologies:
 
-I am learning:
-- Git initialization
-- Git add
-- Git commit
-- Git status
-- Git push
+1. AWS
 
-This is my first version.
+2. Linux
+
+3. Git
+
+4. GitHub
+
+5. Docker
+
+My Goal:
+To become a skilled DevOps Engineer.
+
+This is my updated version for Git practice.
